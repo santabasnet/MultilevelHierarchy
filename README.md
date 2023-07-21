@@ -7,7 +7,7 @@ A generic tree representation in Scala 3 whose node contents are identifiable wi
 
 ## The equivalent representation in code: 
 ### 1. Construction
-<code>
+<code lang="Scala">
         val treeRoot = ResourceTree.construct(root)
         val tree11 = ResourceTree.construct(s11)
         val tree21 = ResourceTree.construct(s21)
