@@ -1,7 +1,7 @@
 package com.iict.hierarchy
 
 /**
- * This class is a part of the package com.wiseyak.hierarchy and the package
+ * This class is a part of the package com.iict.hierarchy and the package
  * is a part of the project TypeTest.
  *
  * Integrated ICT Pvt. Ltd. Jwagal, Lalitpur, Nepal.
