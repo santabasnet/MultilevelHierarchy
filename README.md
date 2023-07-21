@@ -1,3 +1,3 @@
 # MultilevelHierarchy
 
-A generic tree in Scala 3 representation whose node contents are identifiable with some scope, useful to work with collection data hierarchy.
+A generic tree representation in Scala 3 whose node contents are identifiable with some scope, useful to work with collection data hierarchy.
