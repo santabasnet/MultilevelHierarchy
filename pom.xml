@@ -21,7 +21,7 @@
             <artifactId>scala3-library_3</artifactId>
             <version>3.3.0</version>
         </dependency>
-        
+
     </dependencies>
 
 </project>
