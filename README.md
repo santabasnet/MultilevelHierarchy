@@ -16,7 +16,8 @@ A generic tree representation in Scala 3 whose node contents are identifiable wi
         val tree31 = ResourceTree.construct(s31)
         val tree41 = ResourceTree.construct(s41)
 ```
-###2. Tree Operations with multiple ways
+
+### 2. Tree Operations with multiple ways
 ```Scala
          /**
          * Tree operations using ++ operations.
